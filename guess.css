@@ -1,0 +1,29 @@
+h1{
+    display: block;
+    color:red ;
+    font-size:70px;
+    font-style:bold;
+
+}
+h2{
+display:block;
+color:black;
+font-size: 50px;
+font-variant: inherit;
+}
+h3{
+    display:block;
+    color:blue;
+    font-size: 40px;
+    font-variant: inherit;   
+
+
+}
+#submitButton{
+
+    display:block;
+    color:red;
+    font-size: 20px;
+ font-weight: 200;
+
+}
